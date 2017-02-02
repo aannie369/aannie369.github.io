@@ -8,7 +8,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: <assets\images\364122-Shahrukhphotofile-1334293199-938-640x480.jpg>
+picture: assets/images/364122-Shahrukhphotofile-1334293199-938-640x480.jpg
 
 
 # If you want to include your resume, set to true
@@ -56,8 +56,8 @@ authors:
     johndoe:
         name: John Doe
         bio: A Man who travels the world eating noodles
-        external-image: true
-        picture:git add <C:\Users\Aishwarya\Pictures\P_20160506_134758_1_BF_p.jpg>
+        external-image: false
+        picture:assets/images/364122-Shahrukhphotofile-1334293199-938-640x480.jpg
         twitter: johndoe
 
 # do you want a larger site? change the option below
